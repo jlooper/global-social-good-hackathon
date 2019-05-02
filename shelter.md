@@ -1,14 +1,12 @@
 # Shelter animal classification
 
-## Overview
+## Challenge
 
 Every year, thousands of dogs and cats are surrendered to shelters or rescued by various organizations. These pets are then advertised on various websites where prospective adopters can discover available pets and contact the shelter. One challenge shelters face is being able to quickly identify the breed of a dog or cat. Machine learning and image recognition can assist in labeling images.
 
-## Success criteria
+## Opportunities
 
 Create a model which can successfully identify and label images of dogs. Create a web based front end for the model where users can upload images to discover the breed of dog.
-
-### Possible additional challenges
 
 Add support for cat breeds.
 

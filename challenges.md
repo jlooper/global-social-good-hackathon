@@ -13,3 +13,6 @@ Your team can choose from one of the challenges listed below for this hack event
 
 These challenges are not meant to restrict your team. Your team is free to build upon the requirements, create new requirements, or use one of the challenges as inspiration for a different project.
 
+### Challenge notes
+
+Your team is free to solve the challenge however they see fit as long as the technology used focuses on Azure or other Microsoft products. Remember that all code and resources used to solve the challenge must be created during this hack event; a team member's existing projects are not eligible to be used for this contest.

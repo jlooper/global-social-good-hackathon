@@ -29,3 +29,4 @@ Any issues found by the tool should be displayed by the page, or a friendly succ
 
 - [Create a Node.js web app in Azure](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs)
 - [Using multer to upload files to Express](https://github.com/expressjs/multer#readme)
+- [Parsing HTML with jsdom](https://github.com/jsdom/jsdom#readme)

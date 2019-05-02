@@ -19,6 +19,10 @@ The flow is [demonstrated on Botsociety](https://app.botsociety.io/s/5cc9dd7fe27
 
 The bot can be accessible either via [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/blob/master/README.md) or [another channel](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0) such as Slack or Facebook Messenger.
 
+### Possible additional challenges
+
+- Enable speech support
+
 ## Resources
 
 ### Bot Framework

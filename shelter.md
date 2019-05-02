@@ -6,9 +6,11 @@ Every year, thousands of dogs and cats are surrendered to shelters or rescued by
 
 ## Opportunities
 
-Create a model which can successfully identify and label images of dogs. Create a web based front end for the model where users can upload images to discover the breed of dog.
+A [large collection of labeled images](https://cs4b826aa5bbb08x4e9ax980.blob.core.windows.net/build/dogs-and-cats.zip) of cats and dogs have been provided. From there, there are a few paths your team could take.
 
-Add support for cat breeds.
+- Use Azure Custom Vision Service to detect cats or dogs in a picture
+- Build a custom machine learning model to detect breed
+- Create a web application where users could upload a picture and receive a message indicating the type of animal or breed
 
 ## Resources
 
@@ -21,6 +23,12 @@ A [zip file](https://cs4b826aa5bbb08x4e9ax980.blob.core.windows.net/build/dogs-a
 - [What is Azure Custom Vision Service](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home)
 - [How to build a classifier with Custom Vision Service](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)
 - [Use your model with the Prediction API](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api)
+
+### Machine learning
+
+- [Getting started with machine learning for computer vision](https://notebooks.azure.com/graememalcolmoutlook/projects/mlprimers)
+- [Introduction to Azure Data Science Virtual Machine for Linux and Windows](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
+- [Provision the Data Science Virtual Machine for Linux (Ubuntu)](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
 
 ### Web development
 

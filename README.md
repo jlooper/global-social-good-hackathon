@@ -44,11 +44,18 @@ At the end of the available hacking time, each team will have one or more repres
 
 Presentation order will be determined by random selection. Teams will be informed of the presentation order at 15:50, 10 minutes before presentations begin. Once presentations begin at 16:00, all development must end.
 
-Teams will be scored on
+#### Scoring
 
-- Creativity: Did your team go beyond the scope of the challenge? Did your team create new solutions for existing problems?
-- Project completeness: How well does the solution or application work?
-- Use of Azure: Were available technologies used correctly, and how well was Azure incorporated into the project?
+- Does the project address a clear need, problem, or opportunity, and is the solution clearly explained?
+  - 10 points
+- Does the project include innovations in technical design or implementation of services or user experience?
+  - 20 points
+- Does the project have a clear target market or audience?
+  - 5 points
+- Is the project's purpose and basic functionality easily understood?
+  - 5 points
+- Does the project have a professional degree of production in terms of performance, user interface, visuals, and audio?
+  - 10 points
 
 ## Hack notes
 

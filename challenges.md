@@ -1,19 +1,12 @@
-# Hack requirements
+# Potential challenges
 
-While your team is free to come up with their own idea, there is a **limited amount of time** available for hacking. As a result, your team is strongly encouraged to choose one of the challenges suggested below. Each challenge includes a set of resources to help jump start development and improve your team's chances for success. Remember, **your team is required to present a solution** at the end of the day, with the expectation a working proof of concept will be demonstrated.
+Each challenge suggestion is built to meet the judging criteria, and offer room for to ideate and innovate. These challenges are designed so teams can complete them within the allotted time. Resources are provided to give your team a jump start, and improve your team's chance for success!
 
-Your team is free to solve the challenge however they see fit as long as the technology used focuses on Azure or other Microsoft products. Remember that all code and resources used to solve the challenge must be created during this hack event; a team member's existing projects are not eligible to be used for this contest.
+Your team is free to build upon the suggestions, create new requirements, or use a challenge as a starting point for a completely different project. This is your team's hack!
 
-If your team does decide to create their own project, it must follow meet the following criteria:
+If your team isn't sure if a project idea meets the criteria or has any other questions, **please ask**!
 
-- **All code** and other resources must be created during the event; no existing work from the team can be used during the hack event
-- The project must focus on social good or the betterment of others
-
-If your team isn't sure if a project idea meets the criteria, please ask!
-
-## Possible challenges
-
-Each challenge suggestion is designed to meet the criteria, and offer your team the opportunity to complete it within the allotted time. Resources are provided to help provide your team a jump start. These challenges are **not** meant to restrict your team, but rather offer inspiration. Your team is free to build upon the suggestions, create new requirements, or use a challenge as a starting point for a completely different project.
+## Challenge suggestions
 
 |Title                                        |Overview                                               |
 |---------------------------------------------|-------------------------------------------------------|

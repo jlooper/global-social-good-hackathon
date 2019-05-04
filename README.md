@@ -8,6 +8,8 @@ And, of course, there will be prizes!
 
 ### Schedule
 
+|Time  |                                                                           |
+|------|---------------------------------------------------------------------------|
 |09:00 |Introduction and overview                                                  |
 |09:10 |AI presentation by Rico Malvar, Chief Scientist and Distinguished Engineer |
 |09:40 |Team formation, walkthrough of challenges and hack event structure         |

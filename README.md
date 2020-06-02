@@ -1,5 +1,7 @@
 # C&AI Intern Hack for Social Good
 
+![logo](intern-hack-logo.png)
+
 ## Overview
 
 Let’s combine forces to hack for good! Join your fellow interns in a weekend hackathon creating solutions to help solve the tough problems impacting all of us. You’ll form groups across Cloud and AI to hack over the weekend of June 20-21. Be mentored by Cloud Advocates, Microsoft notables, and get inspired for the Imagine Cup. The three winning teams will have the opportunity to win $5000, $3000, or $2000 the charity of their choice and the winning team will win Surface Gos for each member.  An additional $5000 donation will be donated to Code.org on behalf of this Hackathon.

@@ -1,28 +1,28 @@
-# Global Social Good Hackathon
+# C&AI Intern Hack for Social Good
 
 ## Overview
 
-The Global Social Good Hackathon is a one day, six hour hack event. The challenge is to form a team and create an app that promotes social good. At the end of the hacking period your teams will present your project to your peers and mentors.
+Let’s combine forces to hack for good! Join your fellow interns in a weekend hackathon creating solutions to help solve the tough problems impacting all of us. You’ll form groups across Cloud and AI to hack over the weekend of June 20-21. Be mentored by Cloud Advocates, Microsoft notables, and get inspired for the Imagine Cup. The three winning teams will have the opportunity to win $5000, $3000, or $2000 the charity of their choice and the winning team will win Surface Gos for each member.  An additional $5000 donation will be donated to Code.org on behalf of this Hackathon.
+ 
+Limited to the first 500 who sign up, so join us quickly!
 
-And, of course, there will be prizes!
-
-### Schedule
+### Schedule June 19 - 20 (all time zones PST - Pacific Standard Time)
 
 |Time  |                                                                           |
 |------|---------------------------------------------------------------------------|
-|09:00 |Introduction and overview                                                  |
-|09:10 |AI presentation by Rico Malvar, Chief Scientist and Distinguished Engineer |
+|09:00 |Introduction and welcome                                                   |
+|09:10 |Keynote by Kayla Cinnamon, Windows Terminal Lead Engineer                  |
 |09:40 |Team formation, walkthrough of challenges and hack event structure         |
 |10:00 |Hacking begins!                                                            |
-|12:00 |Lunch is served! (working lunch)                                           |
-|13:00 |Lunch is removed                                                           |
+|12:00 |Lunchtime                                                                  |
+|13:00 |Lunch ends                                                                 |
 |16:00 |Development ends and presentations begin                                   |
 |17:00 |Prizes and closing                                                         |
-|17:30 |Time to go home!                                                           |
+|17:30 |Hackathon ends                                                             |
 
 ### Team formation
 
-We will be creating 10 teams (because we will only have time for 10 presentations). With 60 total participants expected, each team should contain exactly six members. Should there be an odd number, some teams of five will be formed.
+With 500 total participants expected, team sizes will be diverse. 
 
 You are free to form teams however you see fit! You can meet new friends, or work with a pre-existing team.
 
